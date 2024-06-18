@@ -1,5 +1,5 @@
 # Corefuzzing
 ## ahmad@eurecom.fr
 
-![plot](./docs/iabglogoblue.svg.png)
+![plot](.docs/IABG Logo.svg.png)
 
